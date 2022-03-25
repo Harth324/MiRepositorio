@@ -1,0 +1,8 @@
+Blog
+----
+
+Incluir la cabecera
+
+Sección que muestra las entradas de posts creados para el sitio
+
+Incluir el pie
